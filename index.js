@@ -36,7 +36,12 @@ Do the following:
 
    HINT: no function required
 */
-
+var dog = 'bailyn';
+var cat = 'mishka';
+if(dog === 'bailyn'){
+  let cat = 'piper';
+  console.log(cat);
+}
 
 
 
